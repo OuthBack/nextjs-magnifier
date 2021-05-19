@@ -7,6 +7,10 @@ I already try to use Webpack, Babel and Rollup and got the same error.
 I believe is because the React from NextJs and the React from this project comflicted.
 To avoid this error I just made available the component without transpile.
 
+## What the project does?
+
+This project is a component to zoom the image,similar with Amazon product zoom.
+
 ## How to Install
 
 Copy the "components" folder and paste on your Next.js directory
