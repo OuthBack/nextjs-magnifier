@@ -1,9 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Next.js Magnifier
 
-## OBS:
+## Observation:
 
 The project compile, but I get React Hooks Error.
-I believe is because the React from NextJs and the React from this project comflicted
+I already try to use Webpack, Babel and Rollup and got the same error.
+I believe is because the React from NextJs and the React from this project comflicted.
+To avoid this error I just made available the component without transpile.
 
 ## How to Install
 
@@ -38,3 +40,5 @@ export default function Image() {
 ### Live Demo
 
 https://nextjs-magnifier-example.vercel.app
+
+![alt text](https://i.imgur.com/29NhuQX.png)
